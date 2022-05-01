@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="async-http-client-2.12.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/async-http-client-2.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/async-http-client-netty-utils-2.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/auto-common-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/auto-service-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/auto-service-annotations-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/byte-buddy-1.12.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/checker-qual-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/error_prone_annotations-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/failsafe-3.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/guava-31.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/jcommander-1.82.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/jakarta.activation-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/jtoml-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-buffer-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-codec-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-codec-socks-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-codec-http-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-common-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-handler-proxy-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-handler-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-reactive-streams-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-transport-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-resolver-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-transport-classes-epoll-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-transport-classes-kqueue-4.1.76.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../external libs/lib/netty-transport-native-epoll-4.1.76.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
